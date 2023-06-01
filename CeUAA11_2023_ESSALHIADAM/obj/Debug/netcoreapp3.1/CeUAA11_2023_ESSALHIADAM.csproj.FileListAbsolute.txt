@@ -1,0 +1,5 @@
+C:\Users\200537.asty-moulin\source\repos\CeUAA11_2023_ESSALHIADAM\CeUAA11_2023_ESSALHIADAM\obj\Debug\netcoreapp3.1\CeUAA11_2023_ESSALHIADAM.csproj.AssemblyReference.cache
+C:\Users\200537.asty-moulin\source\repos\CeUAA11_2023_ESSALHIADAM\CeUAA11_2023_ESSALHIADAM\obj\Debug\netcoreapp3.1\CeUAA11_2023_ESSALHIADAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\200537.asty-moulin\source\repos\CeUAA11_2023_ESSALHIADAM\CeUAA11_2023_ESSALHIADAM\obj\Debug\netcoreapp3.1\CeUAA11_2023_ESSALHIADAM.AssemblyInfoInputs.cache
+C:\Users\200537.asty-moulin\source\repos\CeUAA11_2023_ESSALHIADAM\CeUAA11_2023_ESSALHIADAM\obj\Debug\netcoreapp3.1\CeUAA11_2023_ESSALHIADAM.AssemblyInfo.cs
+C:\Users\200537.asty-moulin\source\repos\CeUAA11_2023_ESSALHIADAM\CeUAA11_2023_ESSALHIADAM\obj\Debug\netcoreapp3.1\CeUAA11_2023_ESSALHIADAM.csproj.CoreCompileInputs.cache
