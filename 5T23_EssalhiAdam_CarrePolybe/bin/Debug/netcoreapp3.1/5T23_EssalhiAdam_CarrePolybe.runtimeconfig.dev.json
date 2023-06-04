@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\Carrefour\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Carrefour\\.nuget\\packages"
-    ]
-  }
-}
