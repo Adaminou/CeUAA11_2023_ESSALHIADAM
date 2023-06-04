@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5T23_EssalhiAdam_CarrePolybe", "5T23_EssalhiAdam_CarrePolybe\5T23_EssalhiAdam_CarrePolybe.csproj", "{452DF267-F396-4948-BEDA-1E5DEE79DA12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{452DF267-F396-4948-BEDA-1E5DEE79DA12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{452DF267-F396-4948-BEDA-1E5DEE79DA12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{452DF267-F396-4948-BEDA-1E5DEE79DA12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{452DF267-F396-4948-BEDA-1E5DEE79DA12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A17E1393-4163-401F-A224-44BC03AEFF26}
+	EndGlobalSection
+EndGlobal

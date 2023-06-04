@@ -1,0 +1,14 @@
+C:\Users\Carrefour\Desktop\Adam\5T23_EssalhiAdam_CarrePolybe\5T23_EssalhiAdam_CarrePolybe\bin\Debug\netcoreapp3.1\5T23_EssalhiAdam_CarrePolybe.exe
+C:\Users\Carrefour\Desktop\Adam\5T23_EssalhiAdam_CarrePolybe\5T23_EssalhiAdam_CarrePolybe\bin\Debug\netcoreapp3.1\5T23_EssalhiAdam_CarrePolybe.deps.json
+C:\Users\Carrefour\Desktop\Adam\5T23_EssalhiAdam_CarrePolybe\5T23_EssalhiAdam_CarrePolybe\bin\Debug\netcoreapp3.1\5T23_EssalhiAdam_CarrePolybe.runtimeconfig.json
+C:\Users\Carrefour\Desktop\Adam\5T23_EssalhiAdam_CarrePolybe\5T23_EssalhiAdam_CarrePolybe\bin\Debug\netcoreapp3.1\5T23_EssalhiAdam_CarrePolybe.runtimeconfig.dev.json
+C:\Users\Carrefour\Desktop\Adam\5T23_EssalhiAdam_CarrePolybe\5T23_EssalhiAdam_CarrePolybe\bin\Debug\netcoreapp3.1\5T23_EssalhiAdam_CarrePolybe.dll
+C:\Users\Carrefour\Desktop\Adam\5T23_EssalhiAdam_CarrePolybe\5T23_EssalhiAdam_CarrePolybe\bin\Debug\netcoreapp3.1\5T23_EssalhiAdam_CarrePolybe.pdb
+C:\Users\Carrefour\Desktop\Adam\5T23_EssalhiAdam_CarrePolybe\5T23_EssalhiAdam_CarrePolybe\obj\Debug\netcoreapp3.1\5T23_EssalhiAdam_CarrePolybe.csproj.AssemblyReference.cache
+C:\Users\Carrefour\Desktop\Adam\5T23_EssalhiAdam_CarrePolybe\5T23_EssalhiAdam_CarrePolybe\obj\Debug\netcoreapp3.1\5T23_EssalhiAdam_CarrePolybe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carrefour\Desktop\Adam\5T23_EssalhiAdam_CarrePolybe\5T23_EssalhiAdam_CarrePolybe\obj\Debug\netcoreapp3.1\5T23_EssalhiAdam_CarrePolybe.AssemblyInfoInputs.cache
+C:\Users\Carrefour\Desktop\Adam\5T23_EssalhiAdam_CarrePolybe\5T23_EssalhiAdam_CarrePolybe\obj\Debug\netcoreapp3.1\5T23_EssalhiAdam_CarrePolybe.AssemblyInfo.cs
+C:\Users\Carrefour\Desktop\Adam\5T23_EssalhiAdam_CarrePolybe\5T23_EssalhiAdam_CarrePolybe\obj\Debug\netcoreapp3.1\5T23_EssalhiAdam_CarrePolybe.csproj.CoreCompileInputs.cache
+C:\Users\Carrefour\Desktop\Adam\5T23_EssalhiAdam_CarrePolybe\5T23_EssalhiAdam_CarrePolybe\obj\Debug\netcoreapp3.1\5T23_EssalhiAdam_CarrePolybe.dll
+C:\Users\Carrefour\Desktop\Adam\5T23_EssalhiAdam_CarrePolybe\5T23_EssalhiAdam_CarrePolybe\obj\Debug\netcoreapp3.1\5T23_EssalhiAdam_CarrePolybe.pdb
+C:\Users\Carrefour\Desktop\Adam\5T23_EssalhiAdam_CarrePolybe\5T23_EssalhiAdam_CarrePolybe\obj\Debug\netcoreapp3.1\5T23_EssalhiAdam_CarrePolybe.genruntimeconfig.cache
